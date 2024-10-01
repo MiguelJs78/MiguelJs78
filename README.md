@@ -44,33 +44,6 @@ Hello World</h1>
 </p>
 
 ---
-
-### 🎨 Animações 3D
-
-<div align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="3D Animation" width="400"/>
-</div>
-<p align="center">
-  <img src="https://media.giphy.com/media/YrZECf2KHXis/giphy.gif" alt="3D Cube Animation" width="400px"/>
-</p>
----
-### 🌟 Overview Chamativo
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&width=435&lines=Desenvolvedor+Full-Stack;Amante+de+tecnologias+modernas;Criando+animações+3D;Inovando+com+JavaScript,+C,+Vue!" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&width=435&lines=Desenvolvedor+Full-Stack;Amante+de+tecnologias+modernas;Criando+animações+3D;Inovando+com+JavaScript,+C,+Vue!" alt="Typing SVG" />
-</p>
----
-### 🖥️ Animações Interativas com CSS/JavaScript
-
-<div align="center">
-  <iframe src="https://your3dwebsite.com/3d-animation" width="500" height="400"></iframe>
-</div>
-
----
-
 ### 📫 Conecte-se Comigo:
 <p align="center">
   <a href="https://linkedin.com/in/seu-usuario" target="_blank">
