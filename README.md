@@ -23,7 +23,6 @@ Hello World</h1>
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
----
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
